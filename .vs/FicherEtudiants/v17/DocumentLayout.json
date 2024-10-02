@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\source\\repos\\FicherEtudiants\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E76EC9EC-9926-4A9D-9562-228A3BB6BD87}|FicherEtudiants\\FicherEtudiants.csproj|c:\\users\\msi\\source\\repos\\ficheretudiants\\ficheretudiants\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E76EC9EC-9926-4A9D-9562-228A3BB6BD87}|FicherEtudiants\\FicherEtudiants.csproj|solutionrelative:ficheretudiants\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76EC9EC-9926-4A9D-9562-228A3BB6BD87}|FicherEtudiants\\FicherEtudiants.csproj|c:\\users\\msi\\source\\repos\\ficheretudiants\\ficheretudiants\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76EC9EC-9926-4A9D-9562-228A3BB6BD87}|FicherEtudiants\\FicherEtudiants.csproj|solutionrelative:ficheretudiants\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76EC9EC-9926-4A9D-9562-228A3BB6BD87}|FicherEtudiants\\FicherEtudiants.csproj|c:\\users\\msi\\source\\repos\\ficheretudiants\\ficheretudiants\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E76EC9EC-9926-4A9D-9562-228A3BB6BD87}|FicherEtudiants\\FicherEtudiants.csproj|solutionrelative:ficheretudiants\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76EC9EC-9926-4A9D-9562-228A3BB6BD87}|FicherEtudiants\\FicherEtudiants.csproj|c:\\users\\msi\\source\\repos\\ficheretudiants\\ficheretudiants\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76EC9EC-9926-4A9D-9562-228A3BB6BD87}|FicherEtudiants\\FicherEtudiants.csproj|solutionrelative:ficheretudiants\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76EC9EC-9926-4A9D-9562-228A3BB6BD87}|FicherEtudiants\\FicherEtudiants.csproj|c:\\users\\msi\\source\\repos\\ficheretudiants\\ficheretudiants\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E76EC9EC-9926-4A9D-9562-228A3BB6BD87}|FicherEtudiants\\FicherEtudiants.csproj|solutionrelative:ficheretudiants\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76EC9EC-9926-4A9D-9562-228A3BB6BD87}|FicherEtudiants\\FicherEtudiants.csproj|c:\\users\\msi\\source\\repos\\ficheretudiants\\ficheretudiants\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76EC9EC-9926-4A9D-9562-228A3BB6BD87}|FicherEtudiants\\FicherEtudiants.csproj|solutionrelative:ficheretudiants\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\FicherEtudiants\\FicherEtudiants\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "FicherEtudiants\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\FicherEtudiants\\FicherEtudiants\\MainPage.xaml.cs",
+              "RelativeToolTip": "FicherEtudiants\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:49:08.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\FicherEtudiants\\FicherEtudiants\\App.xaml.cs",
+              "RelativeDocumentMoniker": "FicherEtudiants\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\FicherEtudiants\\FicherEtudiants\\App.xaml.cs",
+              "RelativeToolTip": "FicherEtudiants\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:42:43.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\FicherEtudiants\\FicherEtudiants\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "FicherEtudiants\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\FicherEtudiants\\FicherEtudiants\\MauiProgram.cs",
+              "RelativeToolTip": "FicherEtudiants\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:39:12.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\FicherEtudiants\\FicherEtudiants\\MainPage.xaml",
+              "RelativeDocumentMoniker": "FicherEtudiants\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\FicherEtudiants\\FicherEtudiants\\MainPage.xaml",
+              "RelativeToolTip": "FicherEtudiants\\MainPage.xaml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-24T13:39:10.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\FicherEtudiants\\FicherEtudiants\\AppShell.xaml",
+              "RelativeDocumentMoniker": "FicherEtudiants\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\FicherEtudiants\\FicherEtudiants\\AppShell.xaml",
+              "RelativeToolTip": "FicherEtudiants\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-24T13:39:07.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\FicherEtudiants\\FicherEtudiants\\App.xaml",
+              "RelativeDocumentMoniker": "FicherEtudiants\\App.xaml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\FicherEtudiants\\FicherEtudiants\\App.xaml",
+              "RelativeToolTip": "FicherEtudiants\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-24T13:38:16.795Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
